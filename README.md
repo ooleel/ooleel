@@ -9,7 +9,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 #### 🌱 My programming journey
-- **Python**: online self-taght
+- **Python**: online self-taught
 - double scholarship recipient for [_Code Like a Girl_ School of Code](https://www.codelikeagirl.com/ "Code Like a Girl"): Web Development (**HTML5**, **CSS3**), Navigating **JavaScript**
 - Cert.III | Cert.IV | Diploma (Feb. 2025) in IT, Advanced Programming:
   - **Python**, **HTML5**, **CSS3**
