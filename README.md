@@ -17,7 +17,6 @@
 
 #### ⏳ To be uploaded soon (once the semester is over...)
 - shop website (**HTML5**, **CSS3**)
-- login programs (2 versions: **Python**, **C#** + OOP)
 - **JavaScript** project
 - note taking app (**React Native**)
   
