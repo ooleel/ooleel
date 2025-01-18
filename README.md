@@ -11,13 +11,12 @@
 #### 🌱 My programming journey
 - **Python**: online self-taught
 - double scholarship recipient for [_Code Like a Girl_ School of Code](https://www.codelikeagirl.com/ "Code Like a Girl"): Web Development (**HTML5**, **CSS3**), Navigating **JavaScript**
-- Cert.III | Cert.IV | Diploma (Feb. 2025) in IT, Advanced Programming:
+- Cert.III | Cert.IV | Diploma in IT, Advanced Programming:
   - **Python**, **HTML5**, **CSS3**
   - **C#**/**.NET**, **JavaScript**, **NodeJS**, **React Native**, **SQL**/**MS SQL Server**
 
 #### ⏳ To be uploaded soon (once the semester is over...)
-- shop website (**HTML5**, **CSS3**)
-- **JavaScript** project
+- shop website (**HTML5**, **CSS3**) as my **JavaScript** project
 - note taking app (**React Native**)
   
 <!--
