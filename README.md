@@ -13,7 +13,6 @@
 
 #### ⏳ To be uploaded soon 
 - shop website (**HTML5**, **CSS3**) as my **JavaScript** project
-- note taking app (**React Native**)
   
 <!--
 **ooleel/ooleel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
