@@ -3,10 +3,11 @@
 
 #### ⭐️ My programming journey
 - **Python**: online self-taught
-- double scholarship recipient for [_Code Like a Girl_ School of Code](https://www.codelikeagirl.com/ "Code Like a Girl"): Web Development (**HTML5**, **CSS3**), Navigating **JavaScript**
-- Cert.III | Cert.IV | Diploma in IT, Advanced Programming:
+- double scholarship recipient for [Code Like a Girl_ School of Code](https://www.codelikeagirl.com/ "Code Like a Girl"): Web Development (**HTML5**, **CSS3**), Navigating **JavaScript**
+- Cert.III | Cert.IV | Diploma of IT, Advanced Programming:
   - **Python**, **HTML5**, **CSS3**
-  - **C#**/**.NET**, **JavaScript**, **NodeJS**, **React Native**, **SQL**/**MS SQL Server**
+  - **C#**/**.NET**, **JavaScript**, **NodeJS**, **React Native**, **Express**, **SQL**/**MS SQL Server**
+  - **ASP.NET Core**/**Entity Framework Core**/MVC applications, **TypeScript**
 
 <!--#### Connect with me
 <p align="left">
@@ -36,6 +37,11 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
 </p>
+
+#### 🌋 What I'm currently working on
+- my *Diploma* projects: **ASP.NET Core MVC** web application (learning platform) and a community **React Native** mobile application
+- my *side* project: **React Native** Pomodoro timer / task management mobile application | *Lokin* 
+- little web dev project | *Cheesie*
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ooleel&show_icons=true&locale=en&layout=compact" alt="ooleel" /></p>
 
