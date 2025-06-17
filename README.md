@@ -39,7 +39,7 @@
 </div>  
   
 #### 🌋 What I'm currently working on
-- my *Diploma* projects: **ASP.NET Core MVC** web application (learning platform) and a community **React Native** mobile application | SeniorLearn
+- my *Diploma* projects: **ASP.NET Core MVC** web application (learning platform) and a community **React Native** mobile application | *SeniorLearn*
 - my *side* project: **React Native** Pomodoro timer / task management mobile application | *Lokin* 
 - little web dev project | *Cheesie*
 
