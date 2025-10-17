@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour, je m'appelle Leeloo ✨</h1>
-<h3 align="center">Currently a Software Engineering Intern 👩🏻‍💻</h3>
+<h3 align="center">Currently a Software Developer Intern 👩🏻‍💻</h3>
 
 #### ⭐️ My programming journey
 - **Python**: online self-taught
